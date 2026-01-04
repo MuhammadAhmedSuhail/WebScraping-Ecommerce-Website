@@ -43,7 +43,7 @@ Run `Scrape.ipynb` to run the scrapper of Daraz.pk and get the required data as 
 This project demonstrates how web scraping can be used to extract data from e-commerce websites, such as Daraz.pk. The tool developed in this project can be used to gather insights about products on Daraz.pk and to compare prices, ratings, and reviews across different products.
 
 ## Author:
-- Muhammad Ahmed Suhail ( Founder and CEO DatumDive )
+- Muhammad Ahmed Suhail
 
 
 
